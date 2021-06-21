@@ -1,4 +1,4 @@
-# Car API
+# Fleet manager
 A technical recruitement task to build a REST API that is used to manage an aircraft fleet and flights schedule
 
 
